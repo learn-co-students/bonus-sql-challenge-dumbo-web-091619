@@ -1,4 +1,4 @@
-## Daily Show Challenge
+- ## Daily Show Challenge
 
 Here's a bonus real-world example lab. In this repo, we have a dataset collected by Five Thirty Eight, a popular online magazine that writes data-focused articles.
 
@@ -12,8 +12,27 @@ This dataset features a list of every guest Jon Stewart had as host of 'The Dail
 ### Questions
 
 1. Who did Jon Stewart have on the Daily Show the most?
+    - Fareed Zakaria
 2. What was the most popular profession of guest for each year Jon Stewart hosted the Daily Show?
+      - actor	596	1999
+      - Journalist	72	2000
+      - Author	48	2001
+      - author	102	2002
+      - Historian	11	2003
+      - us president	10	2004
+      - economist	14	2005
+      - military	10	2006
+      - Astrophysicist	9	2007
+      - United States Senator	10	2008
+      - Minority Leader of the United States House - of Representatives	4	2009
+      - Director	2	2010
+      - legal analyst	6	2011
+      - statistician	3	2012
+      - businessman	3	2013
+      - Talk show host	2	2014
+      - First Minister of Scotland	1	2015
 3. What profession was on the show most overall?
+    Acting
 4. How many people did Jon Stewart have on with the first name of Bill?
 5. What dates did Patrick Stewart appear on the show?
 6. Which year had the most guests?
